@@ -1,1 +1,1 @@
-This is the chapter 2 slide of DAV Book
+This is the chapter 2 slide of DAV Book -IIT Bhilai
